@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Performance</title>
+		<title>Performance&Openshift</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -22,7 +22,7 @@
 			  z-index: 99;
 			  border: none;
 			  outline: none;
-			  background-color: #ff7600;
+			  background-color: #00dcff;
 			  color: white;
 			  cursor: pointer;
 			  padding: 3px;

@@ -478,9 +478,9 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					<li><a href="http://www.facebook.com/performance.technologies" target="_blank" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
 					<li><a href="https://www.linkedin.com/company/performance-technologies-s-a-?trk=biz-companies-cym" target="_blank" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
 				</ul>
-				<!--<ul class="copyright">
-					<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-				</ul>-->
+				<ul class="copyright">
+					<li>&copy; Untitled</li><li><a href="http://www.performance.gr">Performance Technologies S.A</a></li>
+				</ul>
 			</section>
 
 		<!-- Scripts -->

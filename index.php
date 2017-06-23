@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Performance&Openshift</title>
+		<title>Performance-Openshift</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -479,7 +479,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					<li><a href="https://www.linkedin.com/company/performance-technologies-s-a-?trk=biz-companies-cym" target="_blank" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; Untitled</li><li><a href="http://www.performance.gr">Performance Technologies S.A</a></li>
+					<li>&copy; 2017</li><li><a href="http://www.performance.gr">Performance Technologies S.A</a></li>
 				</ul>
 			</section>
 

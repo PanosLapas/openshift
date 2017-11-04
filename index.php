@@ -42,7 +42,7 @@
 				<div class="inner">
 					<span><a href="http://www.performance.gr" target="_blank"><img src="images/Picture1.png" alt="" /></a></span>
 					<h1>Develop, Deploy, and Manage Your Containers<br />
-						with <b>Openshift Container Platform</b> <!--<a href="http://html5up.net">HTML5 UP</a>.</h1> 
+						with <b>Openshift Container Platform!!!!!</b> <!--<a href="http://html5up.net">HTML5 UP</a>.</h1> 
 					<p>Accumsan feugiat mi commodo erat lorem ipsum, sed magna<br />
 					lobortis feugiat sapien sed etiam volutpat accumsan.</p>-->
 					<br><br>

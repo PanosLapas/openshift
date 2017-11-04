@@ -33,6 +33,7 @@
 			}
 			</style>
 	</head>
+	
 	<body>
 		<button onclick="topFunction()" id="myBtn" title="Go to top"><b>Top</b></button>
 		<!-- Header -->
